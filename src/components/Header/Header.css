@@ -1,0 +1,13 @@
+a{
+    padding: 5px;
+    margin-right: 8px;
+}
+a:hover{
+    text-decoration: none;
+}
+.container{
+    margin: 20px 0px;
+}
+.container img{
+    width: 100px;
+}
